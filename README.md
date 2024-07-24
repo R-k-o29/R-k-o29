@@ -1,5 +1,8 @@
+![logo](https://github.com/R-k-o29/R-k-o29/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm ROHIT KUMAR OJHA</h1>
 <h3 align="center">Student at CMR College of Engineering & Technology. Currently in my 4th year, specializing in Computer Science and Technology with a focus on Artificial Intelligence and Machine Learning (AIM</h3>
+
+<img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-k-o29&label=Profile%20views&color=0e75b6&style=flat" alt="r-k-o29" /> </p>
 
