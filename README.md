@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHIT KUMAR OJHA</h1>
-<h3 align="center">A passionate currently a B.Tech Final year Student at CMRCET</h3>
+<h3 align="center">A passionate Student currently in B.Tech Final year at CMRCET</h3>
 
 - 🔭 I’m currently working on **a LMS Project**
 
