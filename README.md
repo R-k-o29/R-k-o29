@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-k-o29&label=Profile%20views&color=0e75b6&style=flat" alt="r-k-o29" /> </p>
 
-- 🔭 I’m currently working on **a LMS Project**
+- 🔭 I’m currently working on **a Full stack social media app using MERN tech**
 
 - 🌱 I’m currently learning **MongoDB and React**
 
