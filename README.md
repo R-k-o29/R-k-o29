@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-k-o29&label=Profile%20views&color=0e75b6&style=flat" alt="r-k-o29" /> </p>
 
-- 🔭 I’m currently working on **a Full stack social media app using MERN tech**
+- 🔭 I’m currently working on **LMS Project**
 
-- 🌱 I’m currently learning **MongoDB and React**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://r-k-o29.github.io/rohit_portfolio/](https://r-k-o29.github.io/rohit_portfolio/)
 
@@ -22,10 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/r_k_o29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_k_o29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/r-k-o29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-k-o29/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/r_k_o29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/r_k_o29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rkojha2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rkojha2908" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/r_k_o29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/r_k_o29/" height="30" width="40" /></a>
-<a href="https://discord.gg/#8919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8919" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
